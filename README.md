@@ -31,7 +31,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/fajarghifar/inventory-management-system
+    git clone https://github.com/30jsaha/Inventorio-AI-Tech
     ```
 
 2. **Navigate to the project folder:**
@@ -89,13 +89,6 @@ Follow these steps to set up the project locally:
     - **Email:** `admin@admin.com`
     - **Password:** `password`
 
-## 🔧 Configuration
-
-### Configuring Cart Settings:
-
-- To customize tax rates, number formatting, and more, open `./config/cart.php`.
-- For more details, check out the [hardevine/shoppingcart](https://packagist.org/packages/hardevine/shoppingcart) package.
-
 ## 💡 Contributing
 
 Have ideas to improve the system? Feel free to:
@@ -109,6 +102,6 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-> Find me on [GitHub](https://github.com/fajarghifar) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@fajarghifar) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/)
+> Find me on [GitHub](https://github.com/30jsaha) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@thecodeingz) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/) &nbsp;&middot;&nbsp; [Website](https://www.jsaha.in/)
 
 ---
